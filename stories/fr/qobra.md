@@ -1,7 +1,7 @@
 ---
 name: Qobra
 date: 2023-11-01
-title: Qobra a un cycle de vente et des canaux outbound & inbond industrialisés, augmentant la productivité des équipes et la précision des analyses.
+title: Qobra a un cycle de vente et des canaux outbound & inbound industrialisés, augmentant la productivité des équipes et la précision des analyses.
 subtitle: Qobra est la plateforme de gestion des commissions nouvelle génération.
 description: Qobra est une plateforme SaaS permettant aux entreprises d’optimiser leur gestion des commissions en donnant de la visibilité et de la transparence sur les commissions aux commerciaux et permet aux équipes Opération et Finance de supprimer Excel, gagner du temps, supprimer les erreurs et les frictions en automatisant le calcul des commissions.
 speaker: Antoine Fort
