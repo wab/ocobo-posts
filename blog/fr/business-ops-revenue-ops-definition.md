@@ -111,7 +111,7 @@ des équipes Revenue Operations à nos yeux.
 
 ![Revenue operations position](/posts/1/4.png)
 
-🏷️ C’est une équipe transverse qui a pour objectifs de :</p>
+🏷️ C’est une équipe transverse qui a pour objectifs de :
 
 - Renforcer les relations entre Sales, Marketing, Service (Customer Success et Customer Care) et Finance
 - Porter des sujets transverses qui sont par définition sans ownership clair puisque partiellement gérés par différentes équipes de l’entreprise
