@@ -2,7 +2,7 @@
 name: Resilience Care
 date: 2024-06-12
 title: Les équipes Client de Resilience délivrent de la valeur et simplifient l’adoption de leur solution grâce à un customer journey optimisé dans Vitally.
-subtitle: Projet RevOps - Refonte du Customer Journey, définition des KPIs d’usage et déploiement d’une CS Platform
+subtitle: Resilience est une solution digitale dédiée au suivi à distance et à l'accompagnement des patients en oncologie.
 description: Resilience est une entreprise dédiée au suivi à distance et à l’accompagnement des patient·e·s en oncologie permettant aux soignant·e·s de mieux soigner le cancer et aux patient·e·s de vivre mieux et plus longtemps.
 speaker: Raphaëlle Martin-Neuville
 role: VP of Operations
@@ -39,18 +39,24 @@ Les enjeux de Resilience étaient de structurer sa croissance via deux leviers m
 
 **La mission s’est déroulée en 3 phases :**
 
-### Phase 1 - Évaluation des processus existants sur l’intégralité du cycle de vie du client de l’acquisition au renouvellement.
+### Phase 1
+
+**Évaluation des processus existants sur l’intégralité du cycle de vie du client de l’acquisition au renouvellement**
 
 - Analyse à travers des ateliers et des entretiens individuels
 - Faire émerger les forces et les axes d’améliorations
 - Mapping du futur customer journey et des grandes phases du cycle de vie de Resilience avec la définition des phases, des principaux touchpoints, des KPIs d’usage à suivre et de la clarification des rôles et responsabilités de chaque équipe.
 - Construction de nos recommandations.
 
-### Phase 2 - Construction de la roadmap
+### Phase 2
+
+**Construction de la roadmap**
 
 Roadmap RevOps qui découle de nos recommandations construite et priorisée sur les six prochains mois.
 
-### Phase 3 - Exécution de nos recommandations avec le déploiement d’une CS Platform (Vitally)
+### Phase 3
+
+**Exécution de nos recommandations avec le déploiement d’une CS Platform (Vitally)**
 
 - Benchmark d’une CS Platform pour convenir aux besoins de Resilience et à la bonne intégration à leur stack d’outils.
 - Construction du MVP (Produit Minimum Viable) qui sera déployé
