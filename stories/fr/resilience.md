@@ -28,6 +28,7 @@ deliverables:
   - Un mapping des phases du cycle de vie, des touchpoints à mettre en place, et des KPIs d’usage à suivre;
   - Vitally déployé et synchronisé avec les différentes sources de données;
   - Documentation et contenus de formation;
+youtubeId: -xpYK2HEw3M
 ---
 
 ## La mission
