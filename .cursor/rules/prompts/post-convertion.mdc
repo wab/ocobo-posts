@@ -1,0 +1,18 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+
+# instructions
+- you could take example on ./ocobo-posts/blog/fr/croissance-alan-culture-entreprise.md
+- use the heading 1 as title and for generating file slug
+- you should fill the metadata
+- put the date of today
+- do not try to handle images in this migration, use placeholder url links
+- replace the `<aside />` tag by `{% callout %}`
+- replace the ausha podcast link by the embed player `{% aushaPlayer  %}`
+- clean the markdown file
+- remove the table **MÉTADONNÉES DE L’ARTICLE**
+- use the first paragraph in sources (between heading 1 and first heading 2) as post exerpt and remove this part form the generated post file
+- remove the quotation mark from the post quotes tag in content and the emphasis tag

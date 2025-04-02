@@ -1,0 +1,14 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+
+# instructions
+- you could take example on ./ocobo-posts/stories/fr/quonto.md
+- use the heading 1 as name and for generating file slug
+- you should fill the metadata
+- remove the 🎙️ **Le retour d’expérience** section image as it will be handled automatically in the post file
+- use the 📚 **Livrables de la mission** `<aside />` as post deliverables and remove this part form the generated post file
+- remove the quotation mark from the post quotes tag in content and the emphasis tag
+- clean the markdown file
