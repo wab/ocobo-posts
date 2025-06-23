@@ -8,8 +8,6 @@ date: 2025-06-23
 tags:
   - podcast
   - revenue-echoes
-  - ia
-  - vente
 ---
 
 ## Structurer son équipe Revenue face à l'évolution des interactions clients
