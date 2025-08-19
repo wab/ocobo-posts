@@ -8,7 +8,7 @@ exerpt: |
 
   Au micro de Revenue Echoes, Maxime Videmann, CRO chez Sellsy, nous dévoile  les 2 piliers essentiels de sa stratégie : la transversalité des équipes et l’omniprésence de la data. Un enseignement précieux pour celles et ceux qui souhaitent entreprendre ou accélérer leur croissance.
 read: 5 min
-image: https://www.ocobo.co/posts/revenue-echoes-2/cover-2.png
+image: https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/revenue-echoes-2/cover-2.png
 date: 2024-10-15
 tags:
   - podcast

@@ -1,0 +1,24 @@
+{
+  "name": "ocobo-posts",
+  "version": "1.0.0",
+  "description": "Content repository for Ocobo blog and stories",
+  "type": "module",
+  "scripts": {
+    "upload-assets": "node scripts/upload-assets.js",
+    "upload-assets:all": "node scripts/upload-assets.js --all",
+    "upload-assets:branch": "node scripts/upload-assets.js --branch",
+    "update-urls": "node scripts/update-asset-urls.js",
+    "sync-assets": "pnpm upload-assets && pnpm update-urls",
+    "sync-assets:all": "pnpm upload-assets:all && pnpm update-urls"
+  },
+  "dependencies": {
+    "@vercel/blob": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wab/ocobo-posts.git"
+  },
+  "author": "Ocobo",
+  "license": "MIT"
+}

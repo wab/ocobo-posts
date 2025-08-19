@@ -8,7 +8,7 @@ exerpt: |
 
   Avec l'expertise d’Emmanuel Chaumeau, CRO chez Ringover, on explore quelques pistes pour connecter les départements sales et marketing. Au-delà de la synergie d’équipe, il s’agit de repenser ses process et sa stratégie pour atteindre de vrais résultats.
 read: 7 min
-image: https://www.ocobo.co/posts/revenue-echoes-4/cover-2.png
+image: https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/revenue-echoes-4/cover-2.png
 date: 2024-12-17
 tags:
   - podcast
