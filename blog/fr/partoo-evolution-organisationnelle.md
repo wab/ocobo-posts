@@ -10,7 +10,7 @@ exerpt: |
 
   Découvrez les choix stratégiques et les enseignements tirés de l'expérience de Vincent, CSO chez Partoo.
 read: 5 min
-image: https://www.ocobo.co/posts/revenue-echoes-6/cover-1.png
+image: https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/revenue-echoes-6/cover-1.png
 date: 2025-03-22
 tags:
   - podcast

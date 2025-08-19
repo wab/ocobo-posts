@@ -43,7 +43,7 @@ profils dont c’est la raison d’être **principale**.
 clients pour le service client, générer de la demande pour le marketing, gérer un budget et la
 trésorerie pour la finance, construire la solution pour le produit/tech, et ainsi de suite.
 
-![Business ops général](/posts/1/1.png)
+![Business ops général](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/1/1.png)
 
 Nous allons nous concentrer ici sur la première itération de cette discipline, la plus déployée à ce
 jour : la partie **Revenue Operations, dédiée aux équipes Revenue (Sales, Marketing, Customer
@@ -51,7 +51,7 @@ Success & Customer Care voire Finance).**
 
 ## 💸 Le premier chapitre, Revenue Operations.
 
-![Business ops revenue](/posts/1/2.png)
+![Business ops revenue](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/1/2.png)
 
 ### 🌱 De l’émergence initiale des Sales Ops…
 
@@ -91,7 +91,7 @@ Les équipes métiers sont par essence concentrées sur leurs objectifs personne
 des leads qualifiés, les Sales closent des nouveaux clients, le Success renouvelle des deals, le
 Service répond aux problèmes des client. On voit bien qu’il va manquer un peu de liant à tout ça.
 
-![Revenue operations family](/posts/1/3.png)
+![Revenue operations family](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/1/3.png)
 
 C’est là la principale valeur ajoutée de l’équipe Revenue Operations : mettre de l’huile dans les
 rouages, c’est-à-dire porter ces sujets transverses (cycle de vie des clients, CRM, KPIs, etc) qui
@@ -109,7 +109,7 @@ des équipes Revenue Operations à nos yeux.
 
 ### 🎫 La carte de visite d’une équipe Revenue Operations
 
-![Revenue operations position](/posts/1/4.png)
+![Revenue operations position](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/1/4.png)
 
 🏷️ C’est une équipe transverse qui a pour objectifs de :
 
