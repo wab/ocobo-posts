@@ -21,7 +21,6 @@ quotes:
   - Nous avons fait appel à Ocobo dans notre seconde phase d’hypercroissance afin de réinventer notre modèle de commissionnement
   - Ocobo est intervenu à nos côtés sur une première phase d’audit de l’existant en vue d’en tirer suffisamment de finesse et de fiabilité des données pour en sortir plusieurs recommandations de modèles de commissionnement pour soutenir nos objectifs ambitieux.
   - L’expertise de l’équipe Ocobo avec sa capacité à plonger très rapidement dans le cœur de notre activité, de notre organisation et de nos données a permis d’élargir le scope de la rémunération à une réflexion plus globale sur nos revenus.
-Outils: Odoo, Qobra, Salesforce
 deliverables:
   - Cahier des charges techniques
   - Documentation finale des nouveaux plans de rémunération
