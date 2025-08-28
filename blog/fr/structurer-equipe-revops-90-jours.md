@@ -63,10 +63,10 @@ Ce que vous allez produire dans cette étape, c'est un **diagnostic opérationne
 
 C'est un support de discussion à partager avec les parties prenantes pour les embarquer dans la suite. Une bonne méthode pour prioriser : la [**matrice impact/effort**](https://www.economie.gouv.fr/files/files/directions_services/mission-innovation/Matrice%20impact-effort.pdf). Classez les idées que vous avez identifiées dans les cases suivantes :
 
-- Impact **fort — ** effort **faible** : vos quick wins
-- Impact **fort — ** effort **fort** : à planifier
-- Impact **faible — ** effort **faible** : à faire si ça débloque localement
-- Impact **faible — ** effort **fort** : à écarter ou à reporter
+- Impact **fort** — effort **faible** : vos quick wins
+- Impact **fort** — effort **fort** : à planifier
+- Impact **faible** — effort **faible** : à faire si ça débloque localement
+- Impact **faible** — effort **fort** : à écarter ou à reporter
 
 Les quick wins à ce stade sont souvent très concrets :
 
