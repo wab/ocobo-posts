@@ -1,7 +1,7 @@
 ---
 name: Vizzia
 date: 2025-09-19
-title: "De HubSpot chaotique à machine Revenue optimisée : Vizzia transforme sa productivité commerciale"
+title: "Vizzia lève sa Série A sur des bases solides : fondations RevOps pour une hypercroissance maîtrisée"
 subtitle: Vizzia propose aux collectivités des solutions innovantes pour lutter contre les dépôts sauvages et renforcer la sécurité urbaine.
 description: Vizzia propose aux collectivités des solutions innovantes pour lutter contre les dépôts sauvages et renforcer la sécurité urbaine. Elle offre des capteurs de détection de dépôts sauvages, de la vidéoprotection 4G/5G mobile, ainsi qu'un accompagnement juridique dédié, permettant ainsi aux villes de réduire les incivilités et d'améliorer la propreté et la sûreté de leurs espaces publics. Plus de 150 collectivités font déjà confiance à Vizzia.
 speaker: Louis Vannereau
