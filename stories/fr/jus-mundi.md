@@ -1,7 +1,7 @@
 ---
 name: Jus Mundi
 date: 2025-09-18
-title: "Agilité, clarté et performance : comment Jus Mundi structure sa croissance avec Ocobo"
+title: "Jus Mundi accélère sa Serie B : d'un audit RevOps à une machine de croissance pilotée par la data."
 subtitle: Jus Mundi est une plateforme spécialisée dans la recherche et l'analyse juridique en droit international et arbitrage.
 description: Jus Mundi est une plateforme spécialisée dans la recherche et l'analyse juridique en droit international et arbitrage. Elle utilise l'intelligence artificielle pour donner accès à une vaste base de données de décisions, traités et jurisprudence, facilitant ainsi le travail des professionnels du droit à l'échelle mondiale.
 speaker: Luciana Collinet
