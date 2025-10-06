@@ -86,6 +86,6 @@ Leur approche a été très structurée : ils ont commencé par un audit complet
 
 > L'apport d'Ocobo a été déterminant. Leur intervention nous a permis de gagner en clarté, en efficacité et en agilité. Nous avons aujourd'hui des process optimisés et des outils adaptés à notre croissance.
 
-Leur accompagnement nous a également permis de mieux piloter notre activité grâce à des KPIs pertinents, et de préparer sereinement nos prochaines étapes de développement.
+> Leur accompagnement nous a également permis de mieux piloter notre activité grâce à des KPIs pertinents, et de préparer sereinement nos prochaines étapes de développement.
 
-Au-delà de cette transformation initiale, Ocobo continue à nous accompagner en tant que Business Partner RevOps. Leur apport continu en méthodologie, structure et expertise nous permet de rester agiles, de faire évoluer nos pratiques et d'anticiper les défis liés à notre développement. Cet accompagnement sur la durée est un vrai atout pour sécuriser notre croissance et maximiser la performance de nos équipes.
+> Au-delà de cette transformation initiale, Ocobo continue à nous accompagner en tant que Business Partner RevOps. Leur apport continu en méthodologie, structure et expertise nous permet de rester agiles, de faire évoluer nos pratiques et d'anticiper les défis liés à notre développement. Cet accompagnement sur la durée est un vrai atout pour sécuriser notre croissance et maximiser la performance de nos équipes.
