@@ -1,10 +1,10 @@
 ---
-title: Entre “Run” et gestion de projet : comment orchestrer ses talents RevOps ?
+title: "Entre “Run” et gestion de projet : comment orchestrer ses talents RevOps ?"
 author: ethel
-description: Orchestrez vos RevOps: équilibre run et projets, priorisation des demandes, roadmap claire et organisation en spécialités, métiers ou focus teams pour scaler.
+description: "Orchestrez vos RevOps: équilibre run et projets, priorisation des demandes, roadmap claire et organisation en spécialités, métiers ou focus teams pour scaler."
 read: 7 min
-image: https://images.unsplash.com/photo-1612385763901-68857dd4c43c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800
-date: 2025-17-11
+image: https://images.unsplash.com/photo-1612385763901-68857dd4c43c?w=1200&h=800&fit=crop
+date: 2025-11-17
 tags:
   - organisation
   - ops
@@ -24,7 +24,7 @@ Certaines tâches ne nécessitent pas d'être menées en mode "projet" avec diff
 
 Dans le langage Ops, nous appelons cela le "run". Il s'agit de petites tâches à réaliser au quotidien, pour maintenir et optimiser les processus. Comme le rappelle Lida Laisné dans son épisode Revenue Echoes : "Il faut savoir identifier les moments où la rapidité d'exécution prime sur la consultation collective."
 
-### **Comment identifier une tâche de "run" ?**
+### Comment identifier une tâche de "run" ?
 
 Pour répondre à cette question, posez-vous les questions suivantes :
 
@@ -42,7 +42,7 @@ Dans le "run", il faut différencier deux types :
 
 Il est essentiel de prendre en compte ces demandes ponctuelles, car elles offrent une meilleure compréhension des besoins métier et contribuent à instaurer une relation de proximité et de confiance. Toutefois, si l'équipe RevOps se retrouve submergée par un grand nombre de sollicitations, elle risque de ne pas pouvoir se concentrer sur des projets moyen ou long terme, porteurs d'un impact significatif.
 
-### **Les trois mots d'ordre pour une gestion efficace des demandes ad hoc**
+### Les trois mots d'ordre pour une gestion efficace des demandes ad hoc
 
 1. **Challenger** : Pourquoi cette demande a-t-elle été formulée ? Assurez-vous d'avoir réellement compris le besoin avant d'y répondre. On vous demande une analyse sur un sujet : pourquoi ? On vous demande de créer un nouveau champ CRM : pourquoi ? Ne soyez pas un simple exécutant. En questionnant la demande, vous pourrez apporter la réponse la plus pertinente possible vis-à-vis du besoin mais aussi la plus pragmatique. N'oubliez pas que vous êtes l'expert Ops. En creusant, vous vous rendrez peut-être compte qu'aucune action de votre part ne sera réellement requise car il s'agit juste d'une incompréhension dans le processus (et donc d'une mauvaise communication du processus, sans doute). Aussi, est-ce que le bénéficiaire direct de cette action est un contributeur individuel ou un membre de la direction ? S'il s'agit d'un contributeur individuel, est-ce que ce dernier serait capable de résoudre son problème seul ? Si oui, il est peut-être plus pertinent de responsabiliser le demandeur en lui expliquant le processus.
 
@@ -50,7 +50,7 @@ Il est essentiel de prendre en compte ces demandes ponctuelles, car elles offren
 
 3. **Communiquer** : La meilleure demande entrante est celle qui n'arrive jamais à l'équipe RevOps. Quand vous répondez à une demande, réfléchissez à documenter/communiquer votre solution pour que la demande ne revienne pas. Beaucoup de demandes doivent vous permettre de remettre en question la qualité de la documentation et de votre communication. _Par exemple : un manager SDR demande à obtenir des chiffres sur le volume d'appels réalisés par son équipe sur une période donnée. Un tableau de bord existe déjà dans Salesforce, à sa disposition. Envoyez-lui le lien du tableau de bord et profitez-en pour rappeler à tous les autres managers SDR l'existence de ce tableau de bord._ La communication est aussi clé dans la création d'un lien de confiance avec vos parties prenantes. Donnez des ETA et si vous ne pouvez pas prioriser la demande : expliquez quelles sont vos autres priorités. Ne laissez pas une partie prenante sans réponse ni visibilité sur sa demande. Enfin, il est recommandé de prévoir des plages de temps dédiées au "run" et d'autres à la gestion de projets plus long terme, pour assurer aux équipes la possibilité de travailler sur des sujets de fond.
 
-### **Quel outil pour réceptionner et gérer les demandes entrantes ?**
+### Quel outil pour réceptionner et gérer les demandes entrantes ?
 
 Là aussi, il s'agit de trouver le bon équilibre entre processus et flexibilité. La réponse à cette question dépendra de votre stade de maturité d'équipe, du nombre d'interlocuteurs mais aussi de l'organisation d'équipe RevOps que vous avez choisie de mettre en place.
 
@@ -60,7 +60,7 @@ Votre équipe RevOps est mature et organisée par pôle d'expertise, l'entrepris
 
 Si le "run" permet d'assurer la réactivité opérationnelle au quotidien, l'équipe RevOps a également pour mission de penser l'impact à moyen et long terme en gérant et priorisant des projets structurants qui n'ont pas d'effets immédiats. Pour cela, déployer une organisation, avec une roadmap permettant de travailler efficacement sur ces deux temporalités différentes est primordial.
 
-## **🗺️ Structurer une roadmap pour son équipe**
+## 🗺️ Structurer une roadmap pour son équipe
 
 La construction d'une roadmap RevOps suit une méthodologie en 5 étapes :
 
@@ -82,13 +82,13 @@ La construction d'une roadmap RevOps suit une méthodologie en 5 étapes :
 >
 > Pour plus d'informations sur la construction d'une roadmap, nous vous conseillons de lire cet article : "Le guide pour (re)structurer votre équipe RevOps en 90 jours".
 
-## **🧩 Organiser son équipe pour délivrer des projets transverses**
+## 🧩 Organiser son équipe pour délivrer des projets transverses
 
-### **Le découpage par spécialités**
+### Le découpage par spécialités
 
 Le modèle traditionnel organise l'équipe autour des expertises : chaque membre travaille dans son domaine de compétence (analyse, technologie, stratégie et process, formation), pour tous les interlocuteurs (marketing, ventes, service client). Cette approche garantit la profondeur d'expertise mais peut créer des silos. Le rôle de Strategic Project Manager permet d'orchestrer efficacement ces pôles.
 
-### **Le découpage par ligne de métier**
+### Le découpage par ligne de métier
 
 Ici, chaque ligne de métier est supportée par une petite équipe RevOps dédiée avec ses Revenue Ops, Analyst, Engineer et Enablement Manager dédiés. Ce modèle permet de développer une compréhension fine des besoins métier et créer un lien fort avec ses parties prenantes internes. Il favorise aussi l'autonomie et la rapidité d'exécution.
 
@@ -96,9 +96,9 @@ Le découpage peut être réalisé à différents niveaux du cycle de vie client
 
 Le rôle de Strategic Project Manager transverse au sein du département RevOps permettra de mener des projets cross-fonction et assurer une bonne cohérence sur l'ensemble du cycle de vie client.
 
-![Le découpage par ligne de métier](image.png)
+![Le découpage par ligne de métier](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/ochestrer-talents/by-jobs.png)
 
-### **Le découpage focus team**
+### Le découpage focus team
 
 Les focus teams se concentrent sur des objectifs business précis plutôt que sur des compétences techniques. Cette organisation favorise l'alignement sur les enjeux stratégiques d'entreprise.
 
@@ -106,11 +106,11 @@ La constitution de focus teams se réalise autour d'objectifs stratégiques ou d
 
 Dès que cela est envisageable, nous préconisons la mise en place de ce type d'organisation, qui optimise l'impact des équipes RevOps. Ce modèle favorise à la fois l'agilité, la transversalité et l'expertise technique. Il reste toutefois préférable de constituer ces équipes dédiées avec des profils disposant d'une expérience minimale dans leur fonction, afin de garantir une bonne compréhension des enjeux métier et terrain.
 
-![Le découpage focus team](image-1.png)
+![Le découpage focus team](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/ochestrer-talents/focus-team.png)
 
 Dans tous les cas, il est possible d'envisager des modèles hybrides afin de s'adapter à vos particularités. L'essentiel reste de conserver une flexibilité suffisante pour ajuster l'organisation en fonction de la maturité de l'entreprise, des priorités business et de la composition de l'équipe RevOps.
 
-## **💬 Mettre en place les rituels de communication essentiels**
+## 💬 Mettre en place les rituels de communication essentiels
 
 Tel un système nerveux central, l'équipe RevOps doit irriguer l'ensemble de l'organisation. Pour y parvenir, elle doit rester connectée à toutes ses parties prenantes en interne mais aussi rester connectée au sein de sa propre équipe. Pour cela, pensez à bien mettre en place ces rituels :
 
@@ -122,7 +122,7 @@ Tel un système nerveux central, l'équipe RevOps doit irriguer l'ensemble de l'
 
 * **Rôles et responsabilités** clairement définis au sein de l'équipe RevOps et bien communiqués à chaque département.
 
-## **Conclusion**
+## Conclusion
 
 L'orchestration d'une équipe RevOps est un exercice d'équilibriste qui demande de jongler constamment entre plusieurs priorités : autonomie et collaboration, réactivité sur le "run" et investissement sur des projets structurants, expertise technique et vision business. La réussite repose sur la capacité à créer un environnement où chaque talent peut s'épanouir tout en contribuant à l'objectif collectif.
 

@@ -1,17 +1,16 @@
 ---
-title: Les rôles clés en RevOps : qui fait quoi dans une équipe Revenue Operations complète ?
+title: "Les rôles clés en RevOps : qui fait quoi dans une équipe Revenue Operations complète ?"
 author: ethel
-description: Rôles RevOps expliqués: missions clés, profils et organisation pour aligner Marketing, Sales et CS, fiabiliser la data et scaler vos revenus B2B.
+description: "Rôles RevOps expliqués: missions clés, profils et organisation pour aligner Marketing, Sales et CS, fiabiliser la data et scaler vos revenus B2B."
 read: 7 min
-image: https://images.unsplash.com/photo-1566140967404-b8b3932483f5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800
-date: 2025-17-11
+image: https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=1200&h=800&fit=crop
+date: 2025-11-17
 tags:
   - organisation
   - ops
 ---
 
 ## 🏪 Préambule : pourquoi une agence de conseil en Revenue Operations ?
-# Les 5 métiers clés d'une équipe Revenue Operations
 
 À l'heure où la croissance des entreprises B2B devient de plus en plus complexe, la fonction Revenue Operations (RevOps) s'impose comme la clé de voûte d'une organisation performante. Au-delà d'un simple département, les RevOps incarnent une philosophie d'alignement et d'optimisation qui repose sur quatre piliers fondamentaux : **la stratégie, l'analyse, la technologie et la formation.**
 
@@ -23,7 +22,7 @@ Mais comment ces piliers s'articulent-ils concrètement au quotidien au sein d'u
 
 Dans l'univers des Ops, ces quatre piliers, interconnectés et complémentaires, forment le socle sur lequel repose l'efficacité opérationnelle.
 
-![Les 4 piliers des Ops](6f7f4c07-9583-40cf-8892-1ae1d601448a)
+![Les 4 piliers des Ops](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/pilars.png)
 
 ## Strategy (Stratégie)
 
@@ -64,7 +63,7 @@ Le pilier technologique constitue l'infrastructure qui soutient l'ensemble des o
 
 Les Revenue Operations représentent une approche centralisée qui englobe plusieurs spécialisations : Sales Ops, Marketing Ops, CS Ops, Finance Ops et Service Ops. La principale valeur ajoutée de l'équipe Revenue Operations est de porter des sujets transverses en brisant les silos. En connectant toutes les équipes Revenue entre elles, la discipline RevOps permet de créer une cohérence dans le cycle de vie du client.
 
-![Revenue Ops vs Sales Ops](f1a171e3-52f6-47a0-a36e-5607689929f3)
+![Revenue Ops vs Sales Ops](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/versus.png)
 
 Découvrir les cinq fonctions clés qui composent une équipe RevOps aboutie est une étape essentielle pour ensuite savoir comment structurer et organiser cette équipe :
 
@@ -80,7 +79,7 @@ Cet article s'inscrit dans la continuité de notre série d'articles dédiées a
 
 **Son surnom : le couteau suisse**
 
-![Revenue Ops Manager](ab65e249-3628-4f30-b2c9-5d015056af77)
+![Revenue Ops Manager](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/manager.png)
 
 Le Revenue Ops Manager est bien souvent le premier membre recruté lorsqu'une équipe Ops se constitue. Véritable généraliste, il sait intervenir sur tous les fronts. Il veille à la cohérence et à la fluidité du funnel de vente de bout en bout, garantissant une collaboration efficace et sans rupture entre les équipes Marketing, Ventes, Service et Finance.
 
@@ -107,17 +106,16 @@ D'où l'émergence d'autres profils, qui vont venir compléter l'équipe à mesu
 
 Pour plus de détails sur ce rôle, n'hésitez pas à consulter notre article dédié : [Le rôle de Revenue Ops Manager.](https://www.ocobo.co/blog/role-business-ops-manager)
 
----
 
-**Itérations** : **RevOps Manager** (forme abrégée, très répandue) / **Business Operations Manager** (selon le périmètre, parfois élargi au-delà du RevOps pur - pour mieux comprendre la différence entre Business Ops et Revenue Ops, nous vous invitons à consulter [cet article](https://www.ocobo.co/blog/business-ops-revenue-ops-definition)) / **Sales Operations Manager** (dans les structures où le focus est surtout côté ventes) / **Growth Operations Manager** (dans des organisations orientées croissance)
-
----
+{% callout %}
+**Itérations** : **RevOps Manager** (forme abrégée, très répandue) / **Business Operations Manager** (selon le périmètre, parfois élargi au-delà du RevOps pur - pour mieux comprendre la différence entre Business Ops et Revenue Ops, nous vous invitations à consulter [cet article](https://www.ocobo.co/blog/business-ops-revenue-ops-definition)) / **Sales Operations Manager** (dans les structures où le focus est surtout côté ventes) / **Growth Operations Manager** (dans des organisations orientées croissance)
+{% /callout %}
 
 ## Le Revenue Ops Engineer
 
 **Son surnom : L'architecte système**
 
-![Revenue Ops Engineer](ae49677f-fded-4821-8c98-0bbd031d73a9)
+![Revenue Ops Engineer](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/engineer.png)
 
 Le Revenue Ops Engineer est le bâtisseur discret mais indispensable de la machine RevOps. Premier garant de la fiabilité des outils et des données, il intervient dès que l'organisation souhaite gagner en efficacité, automatiser ses workflows ou fiabiliser ses process. Ce profil technique, à la fois rigoureux et curieux, sait connecter les plateformes (CRM, marketing automation, outils d'analytics…), créer des automatisations sur mesure, et résoudre les petites comme les grandes frictions du quotidien. Il joue un rôle central dans l'alignement de la donnée : c'est lui qui transforme l'empilement d'outils en un écosystème cohérent et performant.
 
@@ -136,17 +134,15 @@ Pour plus de détails sur ce rôle, n'hésitez pas à consulter notre article d�
 - Expérience préalable : 3-5 ans en développement back-end ou full-stack ou expérience significative avec les CRMs (Salesforce, Hubspot...). Maîtrise des architectures API / intégrations et connaissance des problématiques métier Sales/Marketing/CS.
 - Certifications recommandées : Certifications spécifiques aux outils de l'écosystème RevOps (Salesforce Platform Developer, Salesforce Administrator, Hubspot, etc.), Certifications cloud (AWS, GCP, Azure)
 
----
-
+{% callout %}
 **Itérations** : **Business Solutions Architect** / **Technical Sales Ops** / **Salesforce Engineer** / **Salesforce Developper** / **Salesforce Admin** (pour mieux comprendre les métiers relatifs aux carrières Salesforce, nous vous recommandons de consulter [Trailhead](https://trailhead.salesforce.com/fr/career-path)) / **Hubspot Admin** / **Full Stack Engineer** / **Back-end Engineer**
-
----
+{% /callout %}
 
 ## Le Revenue Analyst
 
 **Son surnom : La tour de contrôle**
 
-![Revenue Analyst](d78d6555-11ae-4dce-a11b-7ad275be2688)
+![Revenue Analyst](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/analyst.png)
 
 Ce profil technique, reconnu pour sa rigueur, garantit la fiabilité des données partagées avec le board. Il collabore étroitement avec la Direction afin d'orienter les décisions stratégiques grâce à des analyses chiffrées, mais travaille aussi main dans la main avec les équipes Finance et Data. Entre l'élaboration des budgets, la gestion de la rémunération variable et la prévision des ventes, le Revenue Analyst doit être capable d'analyser la performance à la fois au niveau individuel et à l'échelle de l'entreprise. Selon la structure de l'entreprise, il peut s'appuyer sur une équipe dédiée ou être amené à manipuler lui-même de larges volumes de données en maîtrisant des langages comme SQL ou Python.
 
@@ -167,17 +163,15 @@ Développer une forte sensibilité business, notamment pour les processus métie
 - Expérience préalable : 3-5 ans en tant que Data Analyst ou Business Intelligence
 - Certifications recommandées : Tableau, Power BI, SQL
 
----
-
+{% callout %}
 **Itérations** : **Business Analyst /** **Marketing Data Analyst** (quand dédié au Marketing) **/ Sales Data Analyst** ou **Sales Performance Analyst** ou **Sales Forecast Analyst** (quand dédié aux équipes commerciales) **/ Compensation Analyst** (quand dédié à l'analyse de la compensation) **/ Financial Analyst / Revenue Performance Manager**
-
----
+{% /callout %}
 
 ## L'Enablement Manager
 
 **Son surnom : le coach**
 
-![Enablement Manager](dca766e3-87b4-4a85-9a12-2ecc9479af35)
+![Enablement Manager](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/enablement.png)
 
 À mesure que l'entreprise grandit, les profils recrutés deviennent plus hétérogènes, créant un besoin croissant en documentation, formation et coaching. L'Enablement Manager est le garant de cette montée en compétences. Il joue un rôle essentiel dans le passage à l'échelle de l'organisation commerciale en garantissant que chaque membre de l'équipe dispose des ressources et connaissances nécessaires pour réussir.
 
@@ -199,17 +193,15 @@ Il n'a pas nécessairement la charge de produire tout le contenu, mais il veille
 
 Pour plus de détails sur ce rôle, nous vous invitons à suivre le podcast [Sales Enablement Radio](https://open.spotify.com/show/1bvk5bMfWF6aBjSSRIwuVp). Retrouvez dans chaque épisode un expert de l'enablement qui viendra partager ses projets, ses défis et ses réussites.
 
----
-
+{% callout %}
 **Itérations** : **Business Enablement Manager / Sales Enablement Manager /** **Sales Readiness Manager / Sales Training Manager / Sales Performance Manager / Sales Excellence Manager / Enablement Specialist** (pour un profil moins senior) / **Customer Success Enablement Manager** (quand dédié au CS)
-
----
+{% /callout %}
 
 ## Le Strategic Project Manager
 
 **Le surnom : le chef d'orchestre**
 
-![Strategic Project Manager](1867038c-cd65-4343-b3f3-78e924aabe21)
+![Strategic Project Manager](https://jr0deqtyc8c5pvr8.public.blob.vercel-storage.com/content/posts/roles-cles/strategic.png)
 
 Si l'on devait faire une analogie musicale, le Strategic Project Manager serait le chef d'orchestre : il ne maîtrise pas nécessairement chaque instrument, ni n'écrit la partition, mais il veille à ce que l'ensemble soit joué à la perfection. Présent tout au long du concert, il accompagne chaque musicien, clarifie le rôle de chacun et anime le collectif pour garantir l'harmonie et la fluidité de l'exécution.
 
@@ -230,11 +222,11 @@ Reconnu pour son sens de l'organisation et de la synthèse ainsi que pour ses ca
 
 - Expérience préalable : 3-5 ans en tant que Revenue Operations Manager ou Revenue Analyst ou Chef de projet ou en Conseil (en organisation / transformation / stratégie)
 
----
+{% callout %}
 
 **Itérations** : **Project Management Officer** (PMO) / **Transformation Project Manager** / **Program Manager** ou **Strategic Program Manager** / **Business Project Manager** / **Head of Strategic Initiatives** / **Project Lead** ou **Project Leader** / **Chief of Staff** (dans certains contextes, notamment en scale-up) / **Portfolio Manager** (quand il gère plusieurs projets stratégiques en parallèle)
+{% /callout %}
 
----
 
 ## Conclusion
 
