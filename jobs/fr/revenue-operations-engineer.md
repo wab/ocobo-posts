@@ -4,6 +4,7 @@ icon: "🧑‍🔬"
 contractType: CDI
 seniority: 3-5 ans
 location: Paris (On site)
+startDate: 2026-09-01
 hiringContact: aude-cadiot
 applyEmail: recrutement@ocobo.co
 tallyFormId: 44VaVB
@@ -20,6 +21,8 @@ intro: >
 ### La Mission {% #mission %}
 
 La différence en 2026 : une part croissante de ce que tu déploies embarque de l'IA. Enrichissement, qualification, préparation de RDV, synthèse d'interactions, mise à jour automatique du CRM, aide à la décision commerciale. Ton job n'est pas de tester des outils IA, c'est de les mettre en production avec le même niveau d'exigence que le reste : fiable, mesuré, documenté, maintenable.
+
+Tu es le binôme technique des Revenue Operations Managers, celui qui transforme les décisions d'architecture en solutions qui tiennent dans la durée. Pas des démos qui s'effondrent en production.
 
 Au sein d'une Revenue Squad expérimentée, tu interviens en tant que référent technique sur les missions clients. Tu travailles en binôme avec les RevOps Managers sur les sujets d'architecture et de déploiement, et tu es garant de la qualité technique des solutions mises en place.
 
